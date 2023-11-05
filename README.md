@@ -1,2 +1,2 @@
 # university-projects
-Projetos desenvolvidos na faculdade em C#. 
+Projetos desenvolvidos no 1º semestre da faculdade de sistemas para internet (SENAC) em C#. 
