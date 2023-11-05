@@ -1,2 +1,2 @@
 # university-projects
-Projetos da faculdade desenvolvidos na linguagem de programação C#. 
+Projetos desenvolvidos na faculdade em C#. 
