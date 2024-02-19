@@ -13,7 +13,7 @@
 <p align="left">• Projeto average (média);</p>
 <p align="left">• Projeto decreasing (diminuindo);</p>
 <p align="left">• Projeto multiplication table (tabuada);</p>
-<p align="left">• Projeto function, II, III, IV;</p>
+<p align="left">• Projeto function, II, III, IV.</p>
 
 
 
