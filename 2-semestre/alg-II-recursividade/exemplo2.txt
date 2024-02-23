@@ -1,0 +1,23 @@
+namespace alg_II_recursividade;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        ContarRegressivo(10);
+    }
+
+    public static void ContarRegressivo(int n){
+
+        // if ( n >= 0){     ou OUTRA FORMA: 
+
+        if(n < 0)  // TIPO UM BREAK.
+            return;
+        Console.WriteLine(n);
+
+        ContarRegressivo(n - 1);
+
+        }
+    
+    }
+

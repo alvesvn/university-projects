@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "alg-II-func-III/1.0.0": {
+        "runtime": {
+          "alg-II-func-III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alg-II-func-III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
