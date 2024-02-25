@@ -32,6 +32,7 @@
 
 ## 🚀 - 2º Semestre. 
 
+Os projetos ainda estão em desenvolvimento, aguarde. 
 
 
 
