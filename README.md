@@ -30,9 +30,6 @@
 <p align="left">• Projeto multiplication table (tabuada);</p>
 <p align="left">• Projeto function, II, III, IV.</p>
 
-## 🚀 - 2º Semestre. 
-
-Os projetos ainda estão em desenvolvimento, aguarde. 
 
 
 
